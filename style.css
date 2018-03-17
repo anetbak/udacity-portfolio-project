@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+<head>
+		<meta charset="utf-8">
+		<title>Aneta's Portfolio</title>
+		<link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" rel="stylesheet">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="styles.css">
+</head>
+
+  <body>
+
+		<header class="center">
+			<img class="logo" src="img/ozjasz.jpg" alt"header_logo">
+			<div class="header-title">
+					<h1 class="header_name">Aneta Bak</h1>
+					<h3 class="header_subtitle">Student at Udacity</h3>
+      	</div>
+    </header>
+
+
+<main>
+			<img class="Scilla-view" src="img/scilla.jpg"  alt"header_picture"></div>
+			<p class="slogan"> Welcome to my portfolio site. Hope you will enjoy it!</p>
+
+<div class="featured-work center">Portfolio</div>
+
+	<div class="row">
+			<div class="p_part">
+				<img class="p_part_img" src="img/appify.png" alt="Appify Image">
+				<div class="p_title">APPIFY</div>
+				<a href="#" class="p_link">https://github.com/udacity/Appify/</a>
+			</div>
+
+			<div class="p_part">
+				<img class="p_part_img" src="img/sunflower.png" alt="Sunflower image">
+				<div class="p_title">SUNFLOWER</div>
+				<a href="#" class="p_link">https://github.com/udacity/Sunflower/</a>
+			</div>
+
+			<div class="p_part">
+				<img class="p_part_img" src="img/bookeh.png" alt="Bokeh image">
+				<div class="p_title">BOKEH</div>
+				<a href="#" class="p_link">http://github.com/udacity/Bokeh/</a>
+			</div>
+		</div>
+
+		</section>
+
+</main>
+
+		<footer>
+			<p>&copy; 2018 Aneta Bąk| Feel free to <a href="mailto:aneta.bak88@yahoo.com">email</a> me. Project: Build a Portfolio Site.<p>
+		</footer>
+
+    </body>
+</html>
